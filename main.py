@@ -43,7 +43,7 @@ MENU_DONATE = "Donate"
 
 # --- SERVERS ---
 SERIES_SERVERS = {
-    "Server 1": "https://www.mapple.uk/tv/{tmdb_id}/{season}/{episode}",
+    "Server 1": "https://www.mapple.uk/watch/tv/{tmdb_id}/{season}/{episode}",
     "Server 2": "https://vidfast.pro/tv/{tmdb_id}/{season}/{episode}",
     "Server 3": "https://player.videasy.net/tv/{tmdb_id}/{season}/{episode}",
     "Server 4": "https://vidlink.pro/tv/{tmdb_id}/{season}/{episode}",
@@ -51,7 +51,7 @@ SERIES_SERVERS = {
 }
 
 MOVIE_SERVERS = {
-    "Server 1": "https://www.mapple.uk/movie/{tmdb_id}",
+    "Server 1": "https://www.mapple.uk/watch/movie/{tmdb_id}",
     "Server 2": "https://vidfast.pro/movie/{tmdb_id}",
     "Server 3": "https://player.videasy.net/movie/{tmdb_id}",
     "Server 4": "https://vidlink.pro/movie/{tmdb_id}",

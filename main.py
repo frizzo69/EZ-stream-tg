@@ -43,16 +43,16 @@ MENU_DONATE = "Donate"
 
 # --- SERVERS ---
 SERIES_SERVERS = {
-    "Server 1": "https://www.vidking.net/embed/tv/{tmdb_id}/{season}/{episode}",
-    "Server 2": "https://vidsrc.ru/tv/{tmdb_id}/{season}/{episode}?autoplay=true&colour=00ff9d&backbutton=https://vidsrc.ru/&logo=https://vidsrc.ru/logo.png",
+    "Server 1": "https://www.mapple.uk/embed/tv/{tmdb_id}/{season}/{episode}",
+    "Server 2": "https://vidfast.pro/tv/{tmdb_id}/{season}/{episode}",
     "Server 3": "https://player.videasy.net/tv/{tmdb_id}/{season}/{episode}",
     "Server 4": "https://vidlink.pro/tv/{tmdb_id}/{season}/{episode}",
     "Server 5": "https://vidsrc-embed.ru/embed/tv/{tmdb_id}/{season}/{episode}"
 }
 
 MOVIE_SERVERS = {
-    "Server 1": "https://www.vidking.net/embed/movie/{tmdb_id}",
-    "Server 2": "https://vidsrc.ru/movie/{tmdb_id}?autoplay=true&colour=00ff9d",
+    "Server 1": "https://mapple.uk/watch/movie/{tmdb_id}",
+    "Server 2": "https://vidfast.pro/movie/{tmdb_id",
     "Server 3": "https://player.videasy.net/movie/{tmdb_id}",
     "Server 4": "https://vidlink.pro/movie/{tmdb_id}",
     "Server 5": "https://vidsrc-embed.ru/embed/movie/{tmdb_id}"

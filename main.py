@@ -47,7 +47,7 @@ SERIES_SERVERS = {
     "Server 2": "https://vidfast.pro/tv/{tmdb_id}/{season}/{episode}",
     "Server 3": "https://player.videasy.net/tv/{tmdb_id}/{season}/{episode}",
     "Server 4": "https://vidlink.pro/tv/{tmdb_id}/{season}/{episode}",
-    "Server 5": "https://vidsrc-embed.ru/embed/tv/{tmdb_id}/{season}/{episode}"
+    "Server 5": "https://cineby.at/tv/{tmdb_id}/{season}/{episode}"
 }
 
 MOVIE_SERVERS = {
@@ -55,7 +55,7 @@ MOVIE_SERVERS = {
     "Server 2": "https://vidfast.pro/movie/{tmdb_id}",
     "Server 3": "https://player.videasy.net/movie/{tmdb_id}",
     "Server 4": "https://vidlink.pro/movie/{tmdb_id}",
-    "Server 5": "https://vidsrc-embed.ru/embed/movie/{tmdb_id}"
+    "Server 5": "https://cineby.at/movie/{tmdb_id}"
 }
 
 # --- CONVERSATION STATES ---
